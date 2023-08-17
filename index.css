@@ -1,0 +1,111 @@
+main{
+    box-shadow: 40px 30px 40px #f85e21;
+    
+}
+
+
+header{
+    background-color: #00072e;
+    color: white;
+    height: 150px;
+    text-align: center;
+    overflow: hidden;
+}
+span{
+    color: #f85e21;
+}
+.section-first{
+    width: 100%;
+    display: flex;
+}
+.text-first{
+    float: right;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #00072e;
+}
+button{
+    background-color: #00072e;
+    padding: 10px;
+    margin-top: 10%;
+    border-radius: 20%;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-first h1{
+    font-size: 50px;
+}
+.text-first p{
+    font-size: 20px;
+}
+.picture{
+    margin-left: 20%;
+    
+}
+.services{
+    height: 100px;
+    background-color: #f85e21;
+    color: white;
+    padding-left: 10%;
+    overflow: hidden;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section-second{
+    display: flex;
+    text-align: center;
+    padding-left: 100px;
+    color: #00072e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section-second div h3{
+    font-size: 30px;
+}
+.section-second div p{
+    font-size: 17px;
+}
+.first{
+    width: 21%;
+}
+.third{
+    width: 21%;
+}
+.second{
+    width: 50%;
+}
+.Equipe{
+    height: 100px;
+    background-color: #00072e;
+    color: white;
+    padding-left: 10%;
+    overflow: hidden;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section-third{
+    display: flex;
+    text-align: center;
+    color: #f85e21;
+    padding-left:  100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section-third div{
+    width: 22%;
+}
+footer{
+    background-color: #00072e;
+    display: flex;
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer div{
+    width: 33.33%; 
+}
+footer div a{
+    text-decoration: none;
+    color: white;
+    
+}
